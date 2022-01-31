@@ -7,16 +7,18 @@
 
 _atkartoju2 group website project_
 
-This project is for educational porpuses only. Pull request are welcome, but priority for my real-life students! Thank you for your cooperation!
+This project is for educational porpuses only. 
 
-Site published at https://foksen1.github.io/2-mergaite/ 
+Site published at https://foksen1.github.io/3-mergaite/  
 
-Design: [Serlokas](https://cdn.discordapp.com/attachments/648536139677958156/648860692459290634/unknown.png)
+Design: [Mergaitė](https://cdn.discordapp.com/attachments/648536139677958156/648860692459290634/unknown.png)
 
 ## Project features
 
 - Github pages
 - desktop only
+- fixed width content
+- transparent images (.png)
 
 ## Authors
 
