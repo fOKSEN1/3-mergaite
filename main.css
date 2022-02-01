@@ -19,6 +19,9 @@ header > img {
 
 nav {
     float: right;
+    line-height: 20px;
+    margin-top: 15px;
+    margin-bottom: 15px;
 }
 
 a {
